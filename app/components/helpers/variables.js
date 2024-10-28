@@ -1,0 +1,1 @@
+export const colorPalete = ['lime', 'orange', 'amber', 'teal', 'sky', 'rose', 'green', 'yellow']
